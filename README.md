@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG
 
 A lightweight retrieval-augmented generation project for loading local documents,
@@ -110,3 +111,6 @@ print(answer)
   documents in `data/`.
 - The default embedding model is `all-MiniLM-L6-v2`.
 - The default LLM model is `gemini-2.5-flash`.
+=======
+ 
+>>>>>>> 89aee154e51ce30ebb28c02c43a56e57e5810806
